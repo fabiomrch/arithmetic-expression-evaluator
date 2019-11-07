@@ -1,0 +1,9 @@
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/operation/Subtraction.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/operation/Multiplication.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/operation/PrioritizedArithmeticOperation.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/ArithmeticExpressionEvaluator.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/evaluation/ArithmeticExpressionStringEvaluator.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/operation/BinaryArithmeticOperation.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/exception/InvalidArithmeticExpressionException.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/operation/Division.java
+/home/fab/eclipse-workspace/arithmetic-expression-evaluator/src/main/java/com/arithmeticexpeval/operation/Addition.java
